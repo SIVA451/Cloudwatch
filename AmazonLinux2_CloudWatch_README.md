@@ -1,4 +1,4 @@
-# 📘 Amazon CloudWatch Logs on Amazon Linux 2 – Student Demo Guide
+# 📘 Amazon CloudWatch Logs on Amazon Linux 2
 
 This guide demonstrates how to configure **Amazon CloudWatch Logs** on an **Amazon Linux 2 EC2 instance**. Students will learn how to collect and stream system logs such as `/var/log/messages` and `/var/log/secure` to CloudWatch for monitoring and analysis.
 
